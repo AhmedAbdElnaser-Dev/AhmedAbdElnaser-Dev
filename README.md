@@ -70,6 +70,10 @@ I build modern, scalable web applications and enjoy working across frontend, bac
 <h3>📫 Connect with me</h3>
 
 <p>
+  <a href="mailto:ahmedabdelnaser992003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/ahmed-abd-elnaser-6b0863392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
